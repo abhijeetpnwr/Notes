@@ -1,0 +1,748 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27047703</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>4</Month>
+            <Day>5</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>4</Month>
+            <Day>6</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2167-8359</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>4</Volume>
+                    <PubDate>
+                        <MedlineDate>2016</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PeerJ</Title>
+                <ISOAbbreviation>PeerJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Contrasting response of biomass and grain yield to severe drought in Cappelle Desprez and Plainsman V wheat cultivars.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1708</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">We report a case study of natural variations and correlations of some photosynthetic parameters, green biomass and grain yield in Cappelle Desprez and Plainsman V winter wheat (Triticum aestivum L.) cultivars, which are classified as being drought sensitive and tolerant, respectively. We monitored biomass accumulation from secondary leaves in the vegetative phase and grain yield from flag leaves in the grain filling period. Interestingly, we observed higher biomass production, but lower grain yield stability in the sensitive Cappelle cultivar, as compared to the tolerant Plainsman cv. Higher biomass production in the sensitive variety was correlated with enhanced water-use efficiency. Increased cyclic electron flow around PSI was also observed in the Cappelle cv. under drought stress as shown by light intensity dependence of the ratio of maximal quantum yields of Photosystem I and Photosystem II, as well by the plot of the Photosystem I electron transport rate as a function of Photosystem II electron transport rate. Higher CO2 uptake rate in flag leaves of the drought-stressed Plainsman cv. during grain filling period correlates well with its higher grain yield and prolonged transpiration rate through spikes. The increase in drought factor (DFI) and performance (PI) indices calculated from variable chlorophyll fluorescence parameters of secondary leaves also showed correlation with higher biomass in the Cappelle cultivar during the biomass accumulation period. However, during the grain filling period, DFI and PI parameters of the flag leaves were higher in the tolerant Plainsman V cultivar and showed correlation with grain yield stability. Our results suggest that overall biomass and grain yield may respond differentially to drought stress in different wheat cultivars and therefore phenotyping for green biomass cannot be used as a general approach to predict grain yield. We also conclude that photosynthetic efficiency of flag and secondary leaves is correlated with grain yield and green biomass, respectively. In addition, secondary trait associated mechanisms like delayed senescence and higher water-use efficiency also contribute to biomass stability. Our studies further prove that photosynthetic parameters could be used to characterize environmental stress responses.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Paul</LastName>
+                    <ForeName>Kenny</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Plant Biology, Biological Research Centre , Szeged , Hungary.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Pauk</LastName>
+                    <ForeName>János</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Deparment of Biotechnology, Cereal Research Nonprofit Company , Szeged , Hungary.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Deák</LastName>
+                    <ForeName>Zsuzsanna</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Plant Biology, Biological Research Centre , Szeged , Hungary.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Sass</LastName>
+                    <ForeName>László</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Plant Biology, Biological Research Centre , Szeged , Hungary.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Vass</LastName>
+                    <ForeName>Imre</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Plant Biology, Biological Research Centre , Szeged , Hungary.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>PeerJ</MedlineTA>
+            <NlmUniqueID>101603425</NlmUniqueID>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biomass</Keyword>
+            <Keyword MajorTopicYN="N">CO2 gas exchange measurements</Keyword>
+            <Keyword MajorTopicYN="N">Cyclic electron flow (CEF)</Keyword>
+            <Keyword MajorTopicYN="N">Drought stress</Keyword>
+            <Keyword MajorTopicYN="N">Grain yield</Keyword>
+            <Keyword MajorTopicYN="N">P700 absorbance</Keyword>
+            <Keyword MajorTopicYN="N">Triticum aestivum L</Keyword>
+            <Keyword MajorTopicYN="N">Variable chlorophyll fluorescence</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2016</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.7717/peerj.1708</ArticleId>
+            <ArticleId IdType="pii">1708</ArticleId>
+            <ArticleId IdType="pubmed">27047703</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27047199</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>4</Month>
+            <Day>5</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>4</Month>
+            <Day>6</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0972-8988</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Veterinary world</Title>
+                <ISOAbbreviation>Vet World</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Epidemiological studies on forestomach disorders in cattle and buffaloes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1063-1067</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">To study epidemiology of forestomach (reticuloruminal, omasal, and abomasal) disorders in cattle and buffaloes.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">The 106 buffaloes and 32 cattle referred for treatment to the university large animals teaching hospital with the complaint of gastrointestinal diseases constituted the study material. The cases were diagnosed based on history, clinical examination, hematology, biochemistry, radiography, peritoneal fluid analysis and ultrasonography, rumenotomy, and postmortem. A questionnaire was prepared containing important information on housing, husbandry practices, including feeding practices and individual animal information viz. age, species, month of the year, parity, gestation (month), and recent parturition. The animals were divided into eight groups and analysis of variance was performed to study risk factors associated with each condition.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The forestomach disorders are widely prevalent in cattle and buffaloes between April and October, during summer and rainy season (90%) and constituted a significant proportion of diseased cows and buffaloes (138/1840) at the hospital. Different forestomach disorders and their prevalence was: Diaphragmatic hernia (DH) 17%, traumatic reticuloperitonitis (TRP) 14%, idiopathic motility disorder or vagus indigestion (VI) 22%, adhesive peritonitis (AP) 13%, frank exudative peritonitis (FEP) 12%, reticular abscess (RA) 8%, ruminal and omasal impaction (RI) 5%, and abomaso duodenal ulceration (ADU) 9%. DH and RA were significantly more common in buffaloes as compared to cattle. Similarly, impactions were more in buffaloes but its incidence was very low (5%). ADU was present in buffalo as commonly as in cows. Exclusive feeding of wheat straw was present in an abysmally low number of animals and hence could not be considered the cause of these disorders. DH was significantly higher in buffaloes (&gt;5 years) of 5-8 years of age and TRP, VI and AP were observed in cattle and buffalo of 2-8 years of age during the second half of gestation to 1 month post-calving. FEP (12%) occurred more commonly within 1 month of parturition.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">DH, TRP, frank and AP and ADU are causes of the widely prevalent forestomach (reticuloruminal, omasal and abomasal) disorders in cattle and buffaloes.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Sharma</LastName>
+                    <ForeName>A K</ForeName>
+                    <Initials>AK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Medicine, Guru Angad Dev Veterinary and Animal Sciences University, Ludhiana, Punjab, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Dhaliwal</LastName>
+                    <ForeName>P S</ForeName>
+                    <Initials>PS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Medicine, Guru Angad Dev Veterinary and Animal Sciences University, Ludhiana, Punjab, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Randhawa</LastName>
+                    <ForeName>C S</ForeName>
+                    <Initials>CS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Medicine, Guru Angad Dev Veterinary and Animal Sciences University, Ludhiana, Punjab, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Vet World</MedlineTA>
+            <NlmUniqueID>101504872</NlmUniqueID>
+            <ISSNLinking>0972-8988</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">abomaso duodenal ulcerations</Keyword>
+            <Keyword MajorTopicYN="N">diaphragmatic hernia</Keyword>
+            <Keyword MajorTopicYN="N">forestomach</Keyword>
+            <Keyword MajorTopicYN="N">incidence</Keyword>
+            <Keyword MajorTopicYN="N">reticulum</Keyword>
+            <Keyword MajorTopicYN="N">rumen</Keyword>
+            <Keyword MajorTopicYN="N">traumatic reticuloperitonitis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.14202/vetworld.2015.1063-1067</ArticleId>
+            <ArticleId IdType="pubmed">27047199</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27047142</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>4</Month>
+            <Day>5</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>4</Month>
+            <Day>6</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0972-8988</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Veterinary world</Title>
+                <ISOAbbreviation>Vet World</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluation of various feedstuffs of ruminants in terms of chemical composition and metabolisable energy content.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>605-609</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">The aim was to determine the chemical composition and metabolisable energy (ME) content of feedstuffs used in ruminant animals using in vitro method.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">A total of 18 feedstuffs used for ruminant feeding including cultivated non-leguminous fodders like maize, sorghum, pearl millet, and oat; leguminous fodders like cowpea and berseem; agro-industrial by-products such as wheat bran, deoiled rice bran, rice polish, wheat straw, and concentrates such as mustard oil cake, groundnut cake, soybean meal, cotton seed cake, grains like maize, oat, wheat, and barley were taken for this study. Chemical compositions and cell wall constituents of test feeds were determined in triplicate. The crude protein (CP) content was calculated as nitrogen (N) × 6.25. True dry matter digestibility (TDMD), true organic matter digestibility (TOMD), ME, and partitioning factor (PF) values were determined by in vitro gas production technique (IVGPT).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The CP content of non-leguminous fodders varied from 7.29% (sorghum) to 9.51% (maize), but leguminous fodders had less variation in CP. Oilseed cakes/meals had high CP and ether extract (EE) content than other feedstuffs except rice polish, which had 12.80% EE. Wheat straw contained highest fiber fractions than the other ingredients. ME content was highest in grains (wheat-12.02 MJ/kg) and lowest in wheat straw (4.65 MJ/kg) and other roughages. TDMD of grains and oilseed cakes/meals were higher than the fodders and agro-industrial by-products. The same trend was observed for TOMD.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">It was concluded that the energy feeds showed a great variation in chemical composition and ME content. The results of this study demonstrated that the kinetics of gas production of energy feed sources differed among themselves. Evaluation of various feedstuffs is helpful in balanced ration formulation for field animals and under farm conditions for better utilization of these commonly available feed resources.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Kumar</LastName>
+                    <ForeName>Dinesh</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Animal Nutrition, Centre of Advanced Faculty Training in Animal Nutrition, Indian Veterinary Research Institute, Izatnagar, Uttar Pradesh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Datt</LastName>
+                    <ForeName>Chander</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Dairy Cattle Nutrition, National Dairy Research Institute, Karnal, Haryana, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Das</LastName>
+                    <ForeName>L K</ForeName>
+                    <Initials>LK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Veterinary Dispensary, Kalampur, Kalahandi, Odisha, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Kundu</LastName>
+                    <ForeName>S S</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Dairy Cattle Nutrition, National Dairy Research Institute, Karnal, Haryana, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Vet World</MedlineTA>
+            <NlmUniqueID>101504872</NlmUniqueID>
+            <ISSNLinking>0972-8988</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chemical compositions</Keyword>
+            <Keyword MajorTopicYN="N">feedstuffs</Keyword>
+            <Keyword MajorTopicYN="N">in vitro method</Keyword>
+            <Keyword MajorTopicYN="N">metabolisable energy</Keyword>
+            <Keyword MajorTopicYN="N">ruminants</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.14202/vetworld.2015.605-609</ArticleId>
+            <ArticleId IdType="pubmed">27047142</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27047137</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>4</Month>
+            <Day>5</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>4</Month>
+            <Day>6</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0972-8988</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Veterinary world</Title>
+                <ISOAbbreviation>Vet World</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of tanniferous leaf meal based multi-nutrient blocks on feed intake, hematological profile, immune response, and body weight changes in Haemonchus contortus infected goats.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>572-579</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">The aim was to assess the effect of multi nutrient block (MNB) supplementation with and without tanniferous leaf meal mixture on feed intake, hematological profile, immune response, and body weight changes of goats that were experimentally infected with Haemonchus contortus.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Total 12 adult male goats of similar age and body weight (26.49±0.87) were allocated in 3 groups in completely randomized design. MNB supplemented in first two groups i.e. in T1 (no infection) and T2 (H. contortus infection @ 1500 L3/goat) group, while, MNB-condensed tannin (CT) supplemented in T3 (H. contortus infection @ 1500 L3/goat + CT source). All goats were fed concentrate mixture @ 100 g/day/goat, ad lib wheat straw and MNB or MNB-CT to meet their requirement for maintenance. Body weights were recorded and blood and fecal samples were collected at 0 day and thereafter at 15 days intervals for a period of 75 days for the assessment of body weight changes, hematological profile and H. contortus loads. Both humoral and cell-mediated immune (CMI) response were assessed at the end of feeding trial.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Mean hemoglobin and packed cell volume (PCV) levels were found to be highest (p&lt;0.001, p&lt;0.05) in T1 group followed by T3 group and lowest values were observed in T2 group. However, The PCV values between T1 and T3 groups were found to be statistically non-significant (p&lt;0.05). The humoral and CMI response were significantly (p&lt;0.036) higher in T3 group as compared to T2 group. MNB-CT supplementation significantly (p&lt;0.001) reduced fecal egg counts in T3 group as compared to MNB supplemented T2 group.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Supplementation of MNB-CT could be used as an alternative sustainable method to control H. contortus and maintained health status and performance of goats in face of parasitic challenge.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Singh</LastName>
+                    <ForeName>Surender</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Animal Nutrition, Faculty of Veterinary Sciences &amp; AH, Sher-e-Kashmir University of Agricultural Science and Technology of Jammu, R. S. Pura-181 102, Jammu and Kashmir, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Pathak</LastName>
+                    <ForeName>A K</ForeName>
+                    <Initials>AK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Animal Nutrition, Faculty of Veterinary Sciences &amp; AH, Sher-e-Kashmir University of Agricultural Science and Technology of Jammu, R. S. Pura-181 102, Jammu and Kashmir, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Sharma</LastName>
+                    <ForeName>R K</ForeName>
+                    <Initials>RK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Animal Nutrition, Faculty of Veterinary Sciences &amp; AH, Sher-e-Kashmir University of Agricultural Science and Technology of Jammu, R. S. Pura-181 102, Jammu and Kashmir, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Khan</LastName>
+                    <ForeName>Muzaffer</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Animal Nutrition, Faculty of Veterinary Sciences &amp; AH, Sher-e-Kashmir University of Agricultural Science and Technology of Jammu, R. S. Pura-181 102, Jammu and Kashmir, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Vet World</MedlineTA>
+            <NlmUniqueID>101504872</NlmUniqueID>
+            <ISSNLinking>0972-8988</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Haemonchus contortus</Keyword>
+            <Keyword MajorTopicYN="N">condensed tannins</Keyword>
+            <Keyword MajorTopicYN="N">goats</Keyword>
+            <Keyword MajorTopicYN="N">leaf meal mixture</Keyword>
+            <Keyword MajorTopicYN="N">multi-nutrient blocks</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.14202/vetworld.2015.572-579</ArticleId>
+            <ArticleId IdType="pubmed">27047137</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27047133</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>4</Month>
+            <Day>5</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>4</Month>
+            <Day>6</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0972-8988</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Veterinary world</Title>
+                <ISOAbbreviation>Vet World</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of varying levels of formaldehyde treatment of mustard oil cake on rumen fermentation, digestibility in wheat straw based total mixed diets in vitro.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>551-555</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">The aim of the current study was to protect the protein in mustard cake by different levels of formaldehyde treatment with a view to optimize the level of formaldehyde.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Different levels of formaldehyde treatment (0, 1, 1.5 and 2% of crude protein) containing concentrate and roughages diet in 40:60 ratio were tested for their effect on nutrients digestibility, in vitro ammonia release, in vitro gas production and change in protein fractions. Non-significant (p≤0.05) effect on pH, microbial biomass, partitioning factor, total gas production (TGP), TGP per g dry matter and TGP per g digestible dry matter (ml/g) was observed in almost all the treatments.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Total volatile fatty acids at 2% formaldehyde treatment level of mustard cake was lower (p&lt;0.05) as compared to other groups, while in vitro dry matter digestibility and in vitro organic matter digestibility were reported to be low in 1% formaldehyde treated group.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">On a holistic view, it could be considered that formaldehyde treatment at 1.5% level was optimal for protection of mustard oil cake protein.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Mahima</LastName>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Animal Nutrition, College of Veterinary Science and Animal Husbandry, Uttar Pradesh Pandit Deen Dayal Upadhayay Pashu Chikitsa Vigyan Vishwavidyalay Evum Go-Anusandhan Sansthan (DUVASU), Mathura, Uttar Pradesh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Kumar</LastName>
+                    <ForeName>Vinod</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Animal Nutrition, College of Veterinary Science and Animal Husbandry, Uttar Pradesh Pandit Deen Dayal Upadhayay Pashu Chikitsa Vigyan Vishwavidyalay Evum Go-Anusandhan Sansthan (DUVASU), Mathura, Uttar Pradesh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Tomar</LastName>
+                    <ForeName>S K</ForeName>
+                    <Initials>SK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dairy Cattle Nutrition Division, National Dairy Research Institute, Karnal, Haryana, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Roy</LastName>
+                    <ForeName>Debashis</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Animal Nutrition, College of Veterinary Science and Animal Husbandry, Uttar Pradesh Pandit Deen Dayal Upadhayay Pashu Chikitsa Vigyan Vishwavidyalay Evum Go-Anusandhan Sansthan (DUVASU), Mathura, Uttar Pradesh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Kumar</LastName>
+                    <ForeName>Muneendra</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Animal Nutrition, College of Veterinary Science and Animal Husbandry, Uttar Pradesh Pandit Deen Dayal Upadhayay Pashu Chikitsa Vigyan Vishwavidyalay Evum Go-Anusandhan Sansthan (DUVASU), Mathura, Uttar Pradesh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Vet World</MedlineTA>
+            <NlmUniqueID>101504872</NlmUniqueID>
+            <ISSNLinking>0972-8988</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ammonia release</Keyword>
+            <Keyword MajorTopicYN="N">in vitro gas fermentation technique</Keyword>
+            <Keyword MajorTopicYN="N">mustard cake</Keyword>
+            <Keyword MajorTopicYN="N">protected protein</Keyword>
+            <Keyword MajorTopicYN="N">protein fractions</Keyword>
+            <Keyword MajorTopicYN="N">ruminal fermentation</Keyword>
+            <Keyword MajorTopicYN="N">ruminal fluid</Keyword>
+            <Keyword MajorTopicYN="N">volatile fatty acids</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.14202/vetworld.2015.551-555</ArticleId>
+            <ArticleId IdType="pubmed">27047133</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
